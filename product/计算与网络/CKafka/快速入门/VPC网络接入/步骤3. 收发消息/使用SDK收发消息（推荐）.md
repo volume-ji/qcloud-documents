@@ -108,8 +108,8 @@ public class CKafkaProducerDemo {
 2. 运行结果。
 <dx-codeblock>
 :::  bash
-Produce ok:ckafka-topic-demo-0@198
-Produce ok:ckafka-topic-demo-0@199
+produce send ok: ckafka-topic-demo-0@198
+produce send ok: ckafka-topic-demo-0@199
 :::
 </dx-codeblock>
 3. 在 [CKafka 控制台](https://console.cloud.tencent.com/ckafka) 的**topic管理**页面，选择对应的 topic ，单击**更多** > **消息查询**，查看刚刚发送的消息。
